@@ -1,5 +1,5 @@
 **Books:**
-1. UNIX ® AND LINUX ® SYSTEM ADMINISTRATION HANDBOOK FOURTH EDITION - Chapter 8
+1. UNIX and Linux System Administration Handbook - Chapter 8
 2. How Linux Works: What Every Superuser Should Know - Chapter 4
 
 **Tutorials:**
