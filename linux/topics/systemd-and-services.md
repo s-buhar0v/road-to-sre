@@ -10,3 +10,4 @@
 
 **Tutorials:**
 1. http://0pointer.de/blog/projects/systemd-for-admins-1.html
+2. https://medium.com/@benmorel/creating-a-linux-service-with-systemd-611b5c8b91d6
