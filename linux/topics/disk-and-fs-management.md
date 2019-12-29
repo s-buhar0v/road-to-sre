@@ -1,6 +1,7 @@
 **Books:**
-1. UNIX and Linux System Administration Handbook - Chapter 4
-2. How Linux Works: What Every Superuser Should Know - Chapter 8
+1. UNIX and Linux System Administration Handbook - Chapter 5, 20, [21, 22]
+2. How Linux Works: What Every Superuser Should Know - Chapter 4
 
 **Tutorials:**
-1. https://linuxjourney.com/lesson/monitor-processes-ps-command
+1. https://linuxjourney.com/lesson/filesystem-hierarchy
+2. https://linuxjourney.com/lesson/dev-directory
