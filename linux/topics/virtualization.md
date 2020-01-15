@@ -1,0 +1,16 @@
+## Virtualization
+
+**Books**:
+1. Modern Operating Systems - Chapter 7
+2. UNIX and Linux System Administration Handbook - Chapter 24
+
+**Webs**:
+1. [What is virtualization?](https://www.redhat.com/en/topics/virtualization/what-is-virtualization)
+
+## Containers
+
+**Books**:
+1. UNIX and Linux System Administration Handbook - Chapter 25
+
+**Webs**:
+1. [Механизмы контейнеризации: cgroups](https://habr.com/ru/company/selectel/blog/303190/)
