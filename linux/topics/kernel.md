@@ -12,6 +12,8 @@
 
 - Modern Operating Systems, 4th Edition - Chapter 10: 10.2.5; 10.4;
 
+- https://www.kernel.org/doc/html/latest/admin-guide/mm/concepts.html#mm-concepts
+
 - https://www.kernel.org/doc/html/latest/vm/numa.html
 
 - https://www.kernel.org/doc/html/latest/scheduler/sched-nice-design.html
