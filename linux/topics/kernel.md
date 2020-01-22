@@ -17,3 +17,8 @@
 - https://www.kernel.org/doc/html/latest/vm/numa.html
 
 - https://www.kernel.org/doc/html/latest/scheduler/sched-nice-design.html
+
+
+## Kernel administration/sysctl
+
+- https://www.kernel.org/doc/html/latest/admin-guide/sysctl/index.html
